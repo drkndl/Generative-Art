@@ -5,3 +5,5 @@ This repository contains my generative art scripts created with Processing for P
 ### 1. Tiled Lines
 
 JavaScript tutorial by Tim Holman [here](https://generativeartistry.com/tutorials/tiled-lines/).
+
+![Tiled Lines](/TiledLines/TiledLines.png "Tiled Lines with ProcessingPy")
