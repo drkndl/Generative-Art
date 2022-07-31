@@ -27,6 +27,12 @@ Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art
 
 ![Spectral Disks](/SpectralDisks/spectral_disks.jpg "Spectral Disks with R")
 
+### 4. Protoplanetary Disks
+
+Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art-from-code.netlify.app/day-1/session-1/).
+
+![Protoplanetary Disk](/ProtoplanetaryDisks/protodisks.jpg "Protoplanetary Disk with R")
+
 ## License
 
 This repo is licensed by the GNU General Public License v3.0. You can read more about it [here](https://github.com/drkndl/Generative-Art/blob/main/LICENSE).
