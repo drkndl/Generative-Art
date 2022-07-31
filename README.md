@@ -31,7 +31,7 @@ Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art
 
 Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art-from-code.netlify.app/day-1/session-1/).
 
-![Protoplanetary Disk](/ProtoplanetaryDisks/protodisks.png "Protoplanetary Disk with R")
+![Protoplanetary Disk](/ProtoplanetaryDisks/protodisks_readme.png "Protoplanetary Disk with R")
 
 ## License
 
