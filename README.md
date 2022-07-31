@@ -25,7 +25,7 @@ Created using pycairo. JavaScript tutorial by Tim Holman [here](https://generati
 
 Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art-from-code.netlify.app/day-1/session-1/).
 
-![Spectral Disks](/SpectralDisks/spectral_disks.png "Spectral Disks with R")
+![Spectral Disks](/SpectralDisks/spectral_disks.jpg "Spectral Disks with R")
 
 ## License
 
