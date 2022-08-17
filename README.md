@@ -1,6 +1,6 @@
 # Generative-Art
 
-This repository contains my generative art scripts. They have been created with Processing for Python, R and pycairo. Note that most of the scripts may not be efficient since these are my first attempts at learning Generative Art and I am still finding the right language for me. The idea for creating generative art was inspired by [Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk&t=1137s) by Tim Holman. 
+This repository contains my generative art scripts. They have been created with Processing for Python, R, pycairo and p5.js. Note that most of the scripts may not be efficient since these are my first attempts at learning Generative Art and I am still finding the right language for me (although p5.js seems best suited for the purpose so far). The idea for creating generative art was inspired by [Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk&t=1137s) by Tim Holman. 
 
 ## Resources
 
@@ -32,6 +32,12 @@ Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art
 Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art-from-code.netlify.app/day-1/session-1/).
 
 ![Protoplanetary Disk](/ProtoplanetaryDisks/protodisks_readme.png "Protoplanetary Disk with R")
+
+### Wings
+
+Created using p5.js
+
+![b&w-wings](Wings/Wings2.png "Black and white wings with p5.js") ![colour-wings](Wings/Wings_colour2.png "Coloured wings with p5.js")
 
 ## License
 
