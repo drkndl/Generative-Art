@@ -39,6 +39,12 @@ Created using p5.js
 
 ![b&w-wings](Wings/Wings2.png "Black and white wings with p5.js") ![colour-wings](Wings/Wings_colour2.png "Coloured wings with p5.js")
 
+### Structure de Quadrilateres
+
+A shameless recreation of Vera Molnar's masterpiece using p5.js. The colour codes were borrowed from [cagrimmett's tutorial](https://cagrimmett.com/tutorial/2022/03/08/how-to-create-vera-molnars-structure-de-quadrilateres-in-p5-js/).
+
+![Structure de Quadrilateres](Structure_de_Quadrilateres/Structure_de_Quadrilateres.png "Structure de Quadrilateres with p5.js")
+
 ## License
 
 This repo is licensed by the GNU General Public License v3.0. You can read more about it [here](https://github.com/drkndl/Generative-Art/blob/main/LICENSE).
