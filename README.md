@@ -7,43 +7,34 @@ This repository contains my generative art scripts. They have been created with 
 Some resources that helped me out:
 
 * [Generative Artistry tutorials](https://generativeartistry.com/tutorials/) by Tim Holman 
+  * I used this as inspiration for Tiled Lines, Cubic Disarray and Hypnotic Squares. The tutorials on the website are in JavaScript.
 * [ART FROM CODE](https://art-from-code.netlify.app/) by Danielle Navaro
+  * Tutorials here served as inspiration for Spectral Disks and Protoplanetary Disks.
+* Structure de Quadrilateres was a shameless recreation of [Vera Molnar's](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) masterpiece of the same name. The colour codes were borrowed from [cagrimmett's tutorial](https://cagrimmett.com/tutorial/2022/03/08/how-to-create-vera-molnars-structure-de-quadrilateres-in-p5-js/).
 
-### 1. Tiled Lines
+## Gallery
 
-Created using ProcessingPy. JavaScript tutorial by Tim Holman [here](https://generativeartistry.com/tutorials/tiled-lines/).
-
-![Tiled Lines](/TiledLines/TiledLines.png "Tiled Lines with ProcessingPy")
-
-### 2. Cubic Disarray
-
-Created using pycairo. JavaScript tutorial by Tim Holman [here](https://generativeartistry.com/tutorials/cubic-disarray/).
-
-![Cubic Disarray](/CubicDisarray/cubic_disarray.png "Cubic Disarray with pycairo")
-
-### 3. Spectral Disks
-
-Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art-from-code.netlify.app/day-1/session-1/).
+<p align="center">
+  <img alt="Tiled Lines with ProcessingPy" src="/TiledLines/TiledLines.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Cubic Disarray with pycairo" src="/CubicDisarray/cubic_disarray.png" width="45%">
+</p>
 
 ![Spectral Disks](/SpectralDisks/spectral_disks.jpg "Spectral Disks with R")
 
-### 4. Protoplanetary Disks
-
-Created using ggplot2 in R. Inspired by Danielle Navaro's [tutorial](https://art-from-code.netlify.app/day-1/session-1/).
-
 ![Protoplanetary Disk](/ProtoplanetaryDisks/protodisks_readme.png "Protoplanetary Disk with R")
 
-### Wings
+<p align="center">
+  <img alt="Black and white wings with p5.js" src="Wings/Wings2.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Coloured wings with p5.js" src="Wings/Wings_colour2.png" width="45%">
+</p>
 
-Created using p5.js
-
-![b&w-wings](Wings/Wings2.png "Black and white wings with p5.js") ![colour-wings](Wings/Wings_colour2.png "Coloured wings with p5.js")
-
-### Structure de Quadrilateres
-
-A shameless recreation of Vera Molnar's masterpiece using p5.js. The colour codes were borrowed from [cagrimmett's tutorial](https://cagrimmett.com/tutorial/2022/03/08/how-to-create-vera-molnars-structure-de-quadrilateres-in-p5-js/).
-
-![Structure de Quadrilateres](Structure_de_Quadrilateres/Structure_de_Quadrilateres.png "Structure de Quadrilateres with p5.js")
+<p align="center">
+  <img alt="Structure de Quadrilateres with p5.js" src="Structure_de_Quadrilateres/Structure_de_Quadrilateres.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Hypnotic Squares with p5.js" src="/HypnoticSquares/HypnoticSquares.png" width="45%">
+</p>
 
 ## License
 
