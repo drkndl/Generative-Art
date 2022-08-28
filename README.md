@@ -36,6 +36,8 @@ Some resources that helped me out:
   <img alt="Hypnotic Squares with p5.js" src="/HypnoticSquares/HypnoticSquares.png" width="45%">
 </p>
 
+![Rivers](/Rivers/Rivers.png "Rivers with Processing")
+
 ## License
 
 This repo is licensed by the GNU General Public License v3.0. You can read more about it [here](https://github.com/drkndl/Generative-Art/blob/main/LICENSE).
