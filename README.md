@@ -11,6 +11,7 @@ Some resources that helped me out:
 * [ART FROM CODE](https://art-from-code.netlify.app/) by Danielle Navaro
   * Tutorials here served as inspiration for Spectral Disks and Protoplanetary Disks.
 * Structure de Quadrilateres was a shameless recreation of [Vera Molnar's](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) masterpiece of the same name. The colour codes were borrowed from [cagrimmett's tutorial](https://cagrimmett.com/tutorial/2022/03/08/how-to-create-vera-molnars-structure-de-quadrilateres-in-p5-js/).
+* Rivers was inspired by and heavily relied on [hbyhadeel's tutorial](https://www.youtube.com/watch?v=6btSLYnf30M&list=LL&index=1) on masking in Processing.
 
 ## Gallery
 
