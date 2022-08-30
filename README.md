@@ -10,7 +10,8 @@ Some resources that helped me out:
   * I used this as inspiration for Tiled Lines, Cubic Disarray and Hypnotic Squares. The tutorials on the website are in JavaScript.
 * [ART FROM CODE](https://art-from-code.netlify.app/) by Danielle Navaro
   * Tutorials here served as inspiration for Spectral Disks and Protoplanetary Disks.
-* Structure de Quadrilateres was a shameless recreation of [Vera Molnar's](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) masterpiece of the same name. The colour codes were borrowed from [cagrimmett's tutorial](https://cagrimmett.com/tutorial/2022/03/08/how-to-create-vera-molnars-structure-de-quadrilateres-in-p5-js/).
+* Structure de Quadrilateres is a shameless recreation of [Vera Molnar's](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) masterpiece of the same name. The colour codes were borrowed from [cagrimmett's tutorial](https://cagrimmett.com/tutorial/2022/03/08/how-to-create-vera-molnars-structure-de-quadrilateres-in-p5-js/).
+* Untitled Red Black (or Untitled 1970) is a recreation of [Georg Nees's](https://en.wikipedia.org/wiki/Georg_Nees) masterpiece of the same name. 
 * Rivers was inspired by and heavily relied on [hbyhadeel's tutorial](https://www.youtube.com/watch?v=6btSLYnf30M&list=LL&index=1) on masking in Processing.
 
 ## Gallery
@@ -37,7 +38,11 @@ Some resources that helped me out:
   <img alt="Hypnotic Squares with p5.js" src="/HypnoticSquares/HypnoticSquares.png" width="45%">
 </p>
 
-![Rivers](/Rivers/Rivers.png "Rivers with Processing")
+<p align="center">
+  <img alt="Rivers with Processing" src="/Rivers/Rivers.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Untitled Red Black with Processing" src="/Untitled_RedBlack/Untitled_RedBlack.png" width="45%">
+</p>
 
 ## License
 
