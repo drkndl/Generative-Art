@@ -22,9 +22,11 @@ Some resources that helped me out:
   <img alt="Cubic Disarray with pycairo" src="/CubicDisarray/cubic_disarray.png" width="45%">
 </p>
 
+![Protoplanetary Disk](/ProtoplanetaryDisks/protodisks_readme.png "Protoplanetary Disk with R")
+
 ![Spectral Disks](/SpectralDisks/spectral_disks.jpg "Spectral Disks with R")
 
-![Protoplanetary Disk](/ProtoplanetaryDisks/protodisks_readme.png "Protoplanetary Disk with R")
+![Diverge;Converge](Diverge;Converge/Diverge;Converge1.png "Diverge;Converge with p5.js")
 
 <p align="center">
   <img alt="Black and white wings with p5.js" src="Wings/Wings2.png" width="45%">
