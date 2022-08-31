@@ -26,7 +26,11 @@ Some resources that helped me out:
 
 ![Spectral Disks](/SpectralDisks/spectral_disks.jpg "Spectral Disks with R")
 
-![Diverge;Converge](Diverge;Converge/Diverge;Converge1.png "Diverge;Converge with p5.js")
+<p align="center">
+  <img alt="Diverge;Converge with p5.js" src="Diverge;Converge/Diverge;Converge1.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Shards with p5.js" src="Shards/Shards.png" width="45%">
+</p>
 
 <p align="center">
   <img alt="Black and white wings with p5.js" src="Wings/Wings2.png" width="45%">
