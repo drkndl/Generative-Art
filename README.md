@@ -50,6 +50,10 @@ Some resources that helped me out:
   <img alt="Untitled Red Black with Processing" src="/Untitled_RedBlack/Untitled_RedBlack.png" width="45%">
 </p>
 
+<p align="center">
+  <img alt="BlurredFlow with Processing" src="BlurredFlow/BlurredFlow.png" width="45%">
+</p>
+
 ## License
 
 This repo is licensed by the GNU General Public License v3.0. You can read more about it [here](https://github.com/drkndl/Generative-Art/blob/main/LICENSE).
