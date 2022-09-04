@@ -22,7 +22,11 @@ Some resources that helped me out:
   <img alt="Cubic Disarray with pycairo" src="/CubicDisarray/cubic_disarray.png" width="45%">
 </p>
 
-![Protoplanetary Disk](/ProtoplanetaryDisks/protodisks_readme.png "Protoplanetary Disk with R")
+<p align="center">
+  <img alt="Protoplanetary Disk with R" src="/ProtoplanetaryDisks/protodisks_readme.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Thread with Processing" src="/Thread/Thread.png" width="45%">
+</p>
 
 ![Spectral Disks](/SpectralDisks/spectral_disks.jpg "Spectral Disks with R")
 
