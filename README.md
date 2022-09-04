@@ -39,7 +39,7 @@ Some resources that helped me out:
 </p>
 
 <p align="center">
-  <img alt="Structure de Quadrilateres with p5.js" src="Structure_de_Quadrilateres/Structure_de_Quadrilateres.png" width="45%">
+  <img alt="BlurredFlow with Processing" src="BlurredFlow/BlurredFlow.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Hypnotic Squares with p5.js" src="/HypnoticSquares/HypnoticSquares.png" width="45%">
 </p>
@@ -51,7 +51,7 @@ Some resources that helped me out:
 </p>
 
 <p align="center">
-  <img alt="BlurredFlow with Processing" src="BlurredFlow/BlurredFlow.png" width="45%">
+  <img alt="Structure de Quadrilateres with p5.js" src="Structure_de_Quadrilateres/Structure_de_Quadrilateres.png" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="ColourField with Processing" src="ColourField/ColourField.png" width="45%">
 </p>
