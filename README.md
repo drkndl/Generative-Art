@@ -52,6 +52,8 @@ Some resources that helped me out:
 
 <p align="center">
   <img alt="BlurredFlow with Processing" src="BlurredFlow/BlurredFlow.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="ColourField with Processing" src="ColourField/ColourField.png" width="45%">
 </p>
 
 ## License
