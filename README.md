@@ -62,6 +62,8 @@ Some resources that helped me out:
 
 <p align="center">
   <img alt="Rivers with Processing" src="/Rivers/Rivers.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="AccordionBranches with Processing" src="AccordionBranches/AccordionBranches.png" width="45%">
  </p>
 
 ## License
