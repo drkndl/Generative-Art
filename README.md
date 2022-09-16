@@ -49,7 +49,7 @@ Some resources that helped me out:
 </p>
 
 <p align="center">
-  <img alt="Rivers with Processing" src="/Rivers/Rivers.png" width="45%">
+  <img alt="Gridlines with Processing" src="/Gridlines/Gridlines.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Untitled Red Black with Processing" src="/Untitled_RedBlack/Untitled_RedBlack.png" width="45%">
 </p>
@@ -59,6 +59,10 @@ Some resources that helped me out:
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="ColourField with Processing" src="ColourField/ColourField.png" width="45%">
 </p>
+
+<p align="center">
+  <img alt="Rivers with Processing" src="/Rivers/Rivers.png" width="45%">
+ </p>
 
 ## License
 
