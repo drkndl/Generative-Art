@@ -13,6 +13,7 @@ Some resources that helped me out:
 * Structure de Quadrilateres is a shameless recreation of [Vera Molnar's](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) masterpiece of the same name. The colour codes were borrowed from [cagrimmett's tutorial](https://cagrimmett.com/tutorial/2022/03/08/how-to-create-vera-molnars-structure-de-quadrilateres-in-p5-js/).
 * Untitled Red Black (or Untitled 1970) is a recreation of [Georg Nees's](https://en.wikipedia.org/wiki/Georg_Nees) masterpiece of the same name. 
 * Rivers was inspired by and heavily relied on [hbyhadeel's tutorial](https://www.youtube.com/watch?v=6btSLYnf30M&list=LL&index=1) on masking in Processing.
+* [Colour Lovers](colourlovers.com) is a great source for colour palettes.
 
 ## Gallery
 
@@ -23,7 +24,7 @@ Some resources that helped me out:
 </p>
 
 <p align="center">
-  <img alt="Protoplanetary Disk with R" src="/ProtoplanetaryDisks/protodisks_readme.png" width="45%">
+  <img alt="Tapestry with Processing" src="/Tapestry/Tapestry.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Thread with Processing" src="/Thread/Thread.png" width="45%">
 </p>
@@ -64,6 +65,10 @@ Some resources that helped me out:
   <img alt="Rivers with Processing" src="/Rivers/Rivers.png" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="AccordionBranches with Processing" src="AccordionBranches/AccordionBranches.png" width="45%">
+ </p>
+ 
+ <p align="center">
+  <img alt="Protoplanetary Disk with R" src="/ProtoplanetaryDisks/protodisks_readme.png">
  </p>
 
 ## License
