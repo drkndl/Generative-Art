@@ -68,6 +68,12 @@ Some resources that helped me out:
  </p>
  
  <p align="center">
+  <img alt="Acrylic with Processing" src="Acrylic/Acrylic.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Acylic Blended with Processing" src="Acrylic_Blended/Acrylic.png" width="45%">
+ </p>
+ 
+ <p align="center">
   <img alt="Protoplanetary Disk with R" src="/ProtoplanetaryDisks/protodisks_readme.png">
  </p>
 
