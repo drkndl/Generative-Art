@@ -12,8 +12,9 @@ Some resources that helped me out:
   * Tutorials here served as inspiration for Spectral Disks and Protoplanetary Disks.
 * Structure de Quadrilateres is a shameless recreation of [Vera Molnar's](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) masterpiece of the same name. The colour codes were borrowed from [cagrimmett's tutorial](https://cagrimmett.com/tutorial/2022/03/08/how-to-create-vera-molnars-structure-de-quadrilateres-in-p5-js/).
 * Untitled Red Black (or Untitled 1970) is a recreation of [Georg Nees's](https://en.wikipedia.org/wiki/Georg_Nees) masterpiece of the same name. 
+* Quadrate werden rot is a recreation of Frieder Nake's beauty of the same name.
 * Rivers was inspired by and heavily relied on [hbyhadeel's tutorial](https://www.youtube.com/watch?v=6btSLYnf30M&list=LL&index=1) on masking in Processing.
-* [Colour Lovers](colourlovers.com) is a great source for colour palettes.
+* [Colour Lovers](colourlovers.com) and [Coolors](coolors.co) is a great source for colour palettes.
 
 ## Gallery
 
@@ -29,18 +30,10 @@ Some resources that helped me out:
   <img alt="Thread with Processing" src="/Thread/Thread.png" width="45%">
 </p>
 
-![Spectral Disks](/SpectralDisks/spectral_disks.jpg "Spectral Disks with R")
-
 <p align="center">
   <img alt="Diverge;Converge with p5.js" src="Diverge;Converge/Diverge;Converge1.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Shards with p5.js" src="Shards/Shards.png" width="45%">
-</p>
-
-<p align="center">
-  <img alt="Black and white wings with p5.js" src="Wings/Wings2.png" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Coloured wings with p5.js" src="Wings/Wings_colour2.png" width="45%">
 </p>
 
 <p align="center">
@@ -74,8 +67,53 @@ Some resources that helped me out:
  </p>
  
  <p align="center">
-  <img alt="Protoplanetary Disk with R" src="/ProtoplanetaryDisks/protodisks_readme.png">
+  <img alt="Carnival with Processing" src="Carnival/Carnival.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Corona with Processing" src="Corona/Corona.png" width="45%">
  </p>
+ 
+ <p align="center">
+  <img alt="DebugView with Processing" src="DebugView/DebugView.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="PleasantNonsense with Processing" src="PleasantNonsense/PleasantNonsense.png" width="45%">
+ </p>
+ 
+ <p align="center">
+  <img alt="Foliage by Moonlight with Processing" src="Foliage_By_Moonlight/Foliage_By_Moonlight.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Glitch with Processing" src="Glitch/Glitch.png" width="45%">
+ </p>
+ 
+ <p align="center">
+  <img alt="Moonlight with Processing" src="Moonlight/Moonlight.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Soliloquy in Blue with Processing" src="Soliloquy_in_Blue/Soliloquy_in_Blue.png" width="45%">
+ </p>
+ 
+ <p align="center">
+  <img alt="Intersections with Processing" src="Intersections/Intersections.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Evening Sky with Processing" src="EveningSky/EveningSky.png" width="45%">
+ </p>
+ 
+ <p align="center">
+  <img alt="Aurora with Processing" src="Aurora/Aurora.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Evening Sky with Processing" src="Orbits/Orbits.png" width="45%">
+ </p>
+ 
+ <p align="center">
+  <img alt="Quadrate werden rot with Processing" src="Quadrate_werden_rot/Quadrate_werden_rot.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Saturate with Processing" src="Saturate/Saturate.png" width="45%">
+ </p>
+ 
+ <p align="center">
+  <img alt="Wisps with Processing" src="Wisps/Wisps.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Wisps with Processing" src="Wisps/Wisps_Light.png" width="45%">
+ </p>
+ 
 
 ## License
 
