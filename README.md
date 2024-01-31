@@ -129,7 +129,7 @@ Some resources that helped me out:
  <p align="center">
   <img alt="Minimalism with Processing" src="Minimalism/minimalism2.png" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Typography with Processing" src="Typography/Typography-gif.png" width="45%">
+  <img alt="Typography with Processing" src="Typography/Typography-gif.gif" width="45%">
  </p>
 
  <p align="center">
