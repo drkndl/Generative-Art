@@ -113,6 +113,18 @@ Some resources that helped me out:
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Wisps with Processing" src="Wisps/Wisps_Light.png" width="45%">
  </p>
+
+ <p align="center">
+  <img alt="Petri Dish with Processing" src="PetriDish/PetriDish.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Sunset in Dessau with Processing" src="Sunset_in_Dessau/Sunset_in_Dessau.png" width="45%">
+ </p>
+
+ <p align="center">
+  <img alt="Seascape with Processing" src="Seascape/seascape1.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Seascape-6 with Processing" src="Seascape/seascape6.png" width="45%">
+ </p>
  
 
 ## License
