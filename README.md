@@ -125,6 +125,18 @@ Some resources that helped me out:
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Seascape-6 with Processing" src="Seascape/seascape6.png" width="45%">
  </p>
+
+ <p align="center">
+  <img alt="Minimalism with Processing" src="Minimalism/minimalism2.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Typography with Processing" src="Typography/Typography-gif.png" width="45%">
+ </p>
+
+ <p align="center">
+  <img alt="Twilit Hours 1 with Processing" src="TwilitHours/Twilit_Hours1.png" width="45%">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Twilit Hours 4 with Processing" src="TwilitHours/Twilit_Hours4.png" width="45%">
+ </p>
  
 
 ## License
