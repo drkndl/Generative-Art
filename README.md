@@ -135,7 +135,7 @@ Some resources that helped me out:
  <p align="center">
   <img alt="Twilit Hours 1 with Processing" src="TwilitHours/Twilit_Hours1.png" width="45%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Twilit Hours 4 with Processing" src="TwilitHours/Twilit_Hours4.png" width="45%">
+  <img alt="Eclipse with Processing" src="Eclipse/Eclipse.png" width="45%">
  </p>
  
 
